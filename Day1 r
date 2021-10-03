@@ -1,0 +1,14 @@
+package raksha;
+
+public class introduction {
+
+  public static void main(String[] args) {
+   
+   String name="Raksha Shetty";
+   System. out. println("I am " +name);
+   int age=20;
+   System. out. println("Iam "+age+ " year old");
+   String study ="BE";
+   System. out. println("Iam pursuing "+ study);
+  }
+}
